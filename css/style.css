@@ -74,10 +74,6 @@ body {
   left: 50%;
   transform: translateX(-50%);
 }
-.features .icon-holder .number {
-  font-size: 12rem;
-  color: var(--section-color);
-}
 .features .icon-holder .icon {
   color: var(--green-color);
 }
